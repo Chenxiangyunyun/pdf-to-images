@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+output_images/
+*.pdf
+.DS_Store
+.vscode/
+.idea/

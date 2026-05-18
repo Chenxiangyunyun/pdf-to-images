@@ -1,0 +1,13 @@
+[project]
+name = "pdf-to-images"
+version = "0.1.0"
+description = "Convert PDF pages to high-resolution PNG/JPG images."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "PyMuPDF>=1.24.0",
+    "Pillow>=10.0.0",
+]
+
+[tool.setuptools]
+py-modules = ["pdf_to_images"]
