@@ -107,8 +107,8 @@ python pdf_to_images.py data/PDF_example.pdf -o results --prefix slide
 输出文件将类似：
 
 ```text
-results/page_001.png
-results/page_002.png
+results/slide_001.png
+results/slide_002.png
 ```
 
 ## 参数说明
